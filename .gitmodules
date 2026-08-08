@@ -1,0 +1,12 @@
+[submodule "zen_ui.koplugin"]
+	path = zen_ui.koplugin
+	url = git@github.com:yangyingchao/zen_ui.koplugin.git
+[submodule "chinese.koplugin"]
+	path = chinese.koplugin
+	url = git@github.com:yangyingchao/chinese.koplugin.git
+[submodule "fastdict.koplugin"]
+	path = fastdict.koplugin
+	url = git@github.com:asxelot/fastdict.koplugin.git
+[submodule "pinyin_enhancement.koplugin"]
+	path = pinyin_enhancement.koplugin
+	url = git@github.com:gytwo/pinyin_enhancement.koplugin.git
